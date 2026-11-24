@@ -5,4 +5,4 @@ def product_info(pid, name, quantity, price):
             f"Price: Rs.{price:.2f}")
 
 # Example
-print(product_info(101, "Laptop", 2, 45000))
+print(product_info(pid, "name", quantity, price))
